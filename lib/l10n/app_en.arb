@@ -1,0 +1,44 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "Current language"
+    },
+    "amount": "Amount",
+    "title": "Title",
+    "description": "Description",
+    "category": "Category",
+    "@category": {
+        "Home": "Home",
+        "Groceries": "Groceries",
+        "Transport": "Transport",
+        "Entertainment": "Entertainment",
+        "Subscriptions": "Subscriptions",
+        "Eating Out": "Eating Out"
+    },
+    "payment": "Payment",
+    "timestamp": "Timestamp",
+    "add_transaction": "Add Transaction",
+    "error_empty_fields": "Please enter an amount and title!",
+    "success_new_trans": "Transaction added successfully!",
+    "new_trans_title": "New Transaction",
+    "account_title": "Account",
+    "home": "Home",
+    "transactions": "Transactions",
+    "budget": "Budget",
+    "annual": "Annual",
+    "settings": "Settings",
+    "today": "Today",
+    "week": "Week",
+    "month": "Month",
+    "new_budget": "New Budget",
+    "remaining": "Remaining €{amount}",
+    "per_week": "per week",
+    "out_of": "€{spentamount} out of €{totalamount}",
+    "add_budget": "Add Budget",
+    "no_budgets": "No budgets found. Start by adding a new budget from the button below!",
+    "timespan": "Timespan",
+    "set_alert": "Set Alert",
+    "alert_text": "Alert when spending reaches {number}% of budget",
+    "total": "Total"
+
+}

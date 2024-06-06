@@ -1,0 +1,42 @@
+{
+    "language": "Български",
+    "amount": "Сума",
+    "title": "Име",
+    "description": "Описание",
+    "category": "Категория",
+    "@category": {
+        "Home": "За дома",
+        "Groceries": "Покупки",
+        "Transport": "Транспорт",
+        "Entertainment": "Забавления",
+        "Subscriptions": "Абонаменти",
+        "Eating out": "Храна навън"
+    },
+    "payment": "Плащане",
+    "timestamp": "Дата/час",
+    "add_transaction": "Добави разплащане",
+    "error_empty_fields": "Моля въведете сума и име.",
+    "success_new_trans": "Успешно добавено разплащане!",
+    "new_trans_title": "Ново Разплащане",
+    "account_title": "Акаунт",
+    "home": "Начало",
+    "transactions": "Разплащания",
+    "budget": "Бюджет",
+    "annual": "Годишен",
+    "settings": "Настройки",
+    "today": "Днес",
+    "week": "Седмица",
+    "month": "Месец",
+    "new_budget": "Нов бюджет",
+    "remaining": "Оставащо €{amount}",
+    "per_week": "на седмица",
+    "out_of": "€{spentamount} от €{totalamount}",
+    "add_budget": "Добави бюджет",
+    "no_budget": "Няма намерени бюджети. Създайте нов бюджет от бутона по-долу.",
+    "timespan": "Период",
+    "set_alert": "Задайте аларма",
+    "alert_text": "Аларма при достигане на {number}% от бюджета.",
+    "total": "Общо"
+
+
+}
