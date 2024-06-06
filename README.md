@@ -18,13 +18,13 @@ To build the Expense Tracker application, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dari-na/expense-tracker.git
+git clone https://github.com/dari-na/expense_tracker.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd expense-tracker
+cd expense_tracker
 ```
 
 3. Get the dependencies:
